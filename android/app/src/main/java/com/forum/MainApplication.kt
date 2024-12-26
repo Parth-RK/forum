@@ -1,4 +1,4 @@
-package com.tempapp2
+package com.forum
 
 import android.app.Application
 import com.facebook.react.PackageList

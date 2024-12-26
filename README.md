@@ -18,3 +18,14 @@ npx react-native start
 ```bash
 npx react-native run-android 
 ```
+
+## Troubleshoot
+```bash
+npm install --save-dev @types/jest
+```
+```bash
+npm install @react-native/typescript-config
+```
+```bash
+npm install -g @react-native-community/cli
+```
