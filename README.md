@@ -1,4 +1,4 @@
-# amrutam-forum
+# forum
 ## Install React native
 ```bash
 npm uninstall -g react-native-cli 
